@@ -156,6 +156,7 @@ export const GCF_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/shalder27/",
     image: "/people/shayan-halder.jpg",
   },
+  {
     name: "Derrick Thrower",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/derrick-thrower-482855278/",
