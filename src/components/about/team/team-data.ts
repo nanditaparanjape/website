@@ -151,6 +151,12 @@ export const GCF_DATA: Profile[] = [
     image: "/people/isaac-nguyen.jpeg",
   },
   {
+    name: "Daiki Narimoto",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/daiki-narimoto/",
+    image: "/people/daiki-narimoto.jpg",
+  },
+  {
     name: "Sophie Choi",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/sophie-choi-b78991319/",
