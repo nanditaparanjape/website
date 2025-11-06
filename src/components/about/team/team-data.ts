@@ -141,6 +141,12 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/bowenwang0815/",
     image: "/people/bowen-wang.png",
   },
+  {
+    name: "Shyel Singh",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/shyel-singh/",
+    image: "/people/shyel-singh.jpeg",
+  },
 ];
 
 export const GCF_DATA: Profile[] = [
