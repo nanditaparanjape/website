@@ -139,7 +139,7 @@ export const CLCHC_DATA: Profile[] = [
     name: "Bowen Wang",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/bowenwang0815/",
-    image: "/people/bowen-wang.png",
+    image: "/people/bowen-wang.jpg",
   },
 ];
 
