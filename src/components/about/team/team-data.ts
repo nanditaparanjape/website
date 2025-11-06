@@ -117,6 +117,12 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/nathnguyen7631/",
     image: "/people/nathan-nguyen.jpg",
   },
+  {
+    name: "Meredith Lo",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/meredith-lo-916946342/",
+    image: "/people/meredithlo.png",
+  },
 ];
 
 export const GCF_DATA: Profile[] = [
