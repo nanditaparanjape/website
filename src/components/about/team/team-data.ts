@@ -117,6 +117,12 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/nathnguyen7631/",
     image: "/people/nathan-nguyen.jpg",
   },
+  {
+    name: "Grace Yan",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/grace-yan89/",
+    image: "/people/grace-yan.jpg",
+  },
 ];
 
 export const GCF_DATA: Profile[] = [
