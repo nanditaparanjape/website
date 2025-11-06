@@ -151,6 +151,12 @@ export const GCF_DATA: Profile[] = [
     image: "/people/isaac-nguyen.jpeg",
   },
   {
+    name: "Derrick Thrower",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/derrick-thrower-482855278/",
+    image: "/people/derrick-thrower.jpeg",
+  },
+  {
     name: "Daiki Narimoto",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/daiki-narimoto/",
