@@ -135,6 +135,12 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/nathan-ong-396a77290/",
     image: "/people/nathan-ong.png",
   },
+  {
+    name: "Bowen Wang",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/bowenwang0815/",
+    image: "/people/bowen-wang.png",
+  },
 ];
 
 export const GCF_DATA: Profile[] = [
