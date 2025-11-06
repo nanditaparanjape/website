@@ -117,6 +117,12 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/nathnguyen7631/",
     image: "/people/nathan-nguyen.jpg",
   },
+  {
+    name: "Allison Huang",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/allisonlyhuang/",
+    image: "/people/allison-huang.jpg",
+  },
 ];
 
 export const GCF_DATA: Profile[] = [
