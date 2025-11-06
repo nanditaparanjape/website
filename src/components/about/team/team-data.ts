@@ -117,6 +117,36 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/nathnguyen7631/",
     image: "/people/nathan-nguyen.jpg",
   },
+  {
+    name: "Jennifer Yan",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/jennifer-yan-8a2031299/",
+    image: "/people/jennifer-yan.png",
+  },
+  {
+    name: "Meredith Lo",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/meredith-lo-916946342/",
+    image: "/people/meredithlo.png",
+  },
+  {
+    name: "Nathan Ong",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/nathan-ong-396a77290/",
+    image: "/people/nathan-ong.png",
+  },
+  {
+    name: "Bowen Wang",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/bowenwang0815/",
+    image: "/people/bowen-wang.png",
+  },
+  {
+    name: "Shyel Singh",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/shyel-singh/",
+    image: "/people/shyel-singh.jpeg",
+  },
 ];
 
 export const GCF_DATA: Profile[] = [
@@ -138,6 +168,24 @@ export const GCF_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/isaacnguyen33/",
     image: "/people/isaac-nguyen.jpeg",
   },
+  {
+    name: "Derrick Thrower",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/derrick-thrower-482855278/",
+    image: "/people/derrick-thrower.jpeg",
+  },
+  {
+    name: "Daiki Narimoto",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/daiki-narimoto/",
+    image: "/people/daiki-narimoto.jpg",
+  },
+  {
+    name: "Sophie Choi",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/sophie-choi-b78991319/",
+    image: "/people/sophie-choi.jpeg",
+  },
 ];
 
 export const ELDR_DATA: Profile[] = [
@@ -158,5 +206,11 @@ export const ELDR_DATA: Profile[] = [
     role: "Tech Lead",
     linkedin: "https://www.linkedin.com/in/joshua-micah-sullivan",
     image: "/people/joshua-sullivan.jpeg",
+  },
+  {
+    name: "Yousef Khan",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/theyousefkhan/",
+    image: "/people/yousef-khan.jpg",
   },
 ];
