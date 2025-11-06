@@ -138,6 +138,12 @@ export const GCF_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/isaacnguyen33/",
     image: "/people/isaac-nguyen.jpeg",
   },
+  {
+    name: "Shayan Halder",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/shalder27/",
+    image: "/people/shayan-halder.jpg",
+  }
 ];
 
 export const ELDR_DATA: Profile[] = [
