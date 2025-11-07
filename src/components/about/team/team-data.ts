@@ -117,6 +117,12 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/nathnguyen7631/",
     image: "/people/nathan-nguyen.jpg",
   },
+  {
+    name: "Rajat Kaliani",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/rajat-kaliani/",
+    image: "/people/RajatKaliani.jpeg",
+  },
 ];
 
 export const GCF_DATA: Profile[] = [
