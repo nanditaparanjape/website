@@ -222,6 +222,12 @@ export const GCF_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/sophie-choi-b78991319/",
     image: "/people/sophie-choi.jpeg",
   },
+  {
+    name: "Gina Do",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/gina-nhu-do/",
+    image: "/people/gina-do.jpg",
+  },
 ];
 
 export const ELDR_DATA: Profile[] = [
