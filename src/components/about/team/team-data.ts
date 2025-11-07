@@ -117,7 +117,7 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/nathnguyen7631/",
     image: "/people/nathan-nguyen.jpg",
   },
-  { 
+  {
     name: "Anthony Suh",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/anthonysuh/",
@@ -133,7 +133,7 @@ export const CLCHC_DATA: Profile[] = [
     name: "Jacob Horne",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/jacobhornejth/",
-    image: "/people/jacob-horne.jpg"
+    image: "/people/jacob-horne.jpg",
   },
   {
     name: "Jennifer Yan",
@@ -145,7 +145,7 @@ export const CLCHC_DATA: Profile[] = [
     name: "Ira Dharia",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/ira-dharia/",
-    image: "/people/idharia@uci.edu-2.jpg"
+    image: "/people/idharia@uci.edu-2.jpg",
   },
   {
     name: "Meredith Lo",
@@ -182,6 +182,12 @@ export const CLCHC_DATA: Profile[] = [
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/grace-yan89/",
     image: "/people/grace-yan.jpg",
+  },
+  {
+    name: "Lindsay Lim",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/limlindsayj/",
+    image: "/people/lindsay-lim.jpeg",
   },
 ];
 
