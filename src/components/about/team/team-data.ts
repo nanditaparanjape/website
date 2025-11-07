@@ -117,7 +117,6 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/nathnguyen7631/",
     image: "/people/nathan-nguyen.jpg",
   },
-<<<<<<< HEAD
   { 
     name: "Anthony Suh",
     role: "Developer",
@@ -166,23 +165,12 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/shyel-singh/",
     image: "/people/shyel-singh.jpeg",
   },
-=======
->>>>>>> 01077023a8707123fa8a6b8db52b1248e901c7f3
-  {
-    name: "Rajat Kaliani",
-    role: "Developer",
-    linkedin: "https://www.linkedin.com/in/rajat-kaliani/",
-    image: "/people/RajatKaliani.jpeg",
-  },
-<<<<<<< HEAD
   {
     name: "Grace Yan",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/grace-yan89/",
     image: "/people/grace-yan.jpg",
   },
-=======
->>>>>>> 01077023a8707123fa8a6b8db52b1248e901c7f3
 ];
 
 export const GCF_DATA: Profile[] = [
