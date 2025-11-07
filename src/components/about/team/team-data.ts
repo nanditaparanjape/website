@@ -118,6 +118,12 @@ export const CLCHC_DATA: Profile[] = [
     image: "/people/nathan-nguyen.jpg",
   },
   {
+    name: "Allison Huang",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/allisonlyhuang/",
+    image: "/people/allison-huang.jpg",
+  },
+  {
     name: "Jennifer Yan",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/jennifer-yan-8a2031299/",
