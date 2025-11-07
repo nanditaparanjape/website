@@ -187,7 +187,7 @@ export const CLCHC_DATA: Profile[] = [
     name: "Lindsay Lim",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/limlindsayj/",
-    image: "/people/lindsay-lim.jpg",
+    image: "/people/lindsay-lim.jpeg",
   },
 ];
 
