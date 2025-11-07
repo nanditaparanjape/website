@@ -177,12 +177,6 @@ export const CLCHC_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/grace-yan89/",
     image: "/people/grace-yan.jpg",
   },
-  {
-    name: "Ira Dharia",
-    role: "Developer",
-    linkedin: "https://www.linkedin.com/in/ira-dharia/",
-    image: "/people/idharia@uci.edu-2.jpg"
-  }
 ];
 
 export const GCF_DATA: Profile[] = [
