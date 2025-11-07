@@ -172,6 +172,12 @@ export const CLCHC_DATA: Profile[] = [
     image: "/people/shyel-singh.jpeg",
   },
   {
+    name: "Rajat Kaliani",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/rajat-kaliani/",
+    image: "/people/RajatKaliani.jpeg",
+  },
+  {
     name: "Grace Yan",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/grace-yan89/",
