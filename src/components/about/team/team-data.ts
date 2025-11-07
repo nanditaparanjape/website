@@ -130,6 +130,12 @@ export const CLCHC_DATA: Profile[] = [
     image: "/people/allison-huang.jpg",
   },
   {
+    name: "Jacob Horne",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/jacobhornejth/",
+    image: "/people/jacob-horne.jpg"
+  },
+  {
     name: "Jennifer Yan",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/jennifer-yan-8a2031299/",
