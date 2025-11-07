@@ -96,12 +96,6 @@ export const BOARD_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/bowen-wang-41b623251/",
     image: "/people/bowen-wang.jpg",
   },
-  {
-    name: "Ira Dharia",
-    role: "Developer",
-    linkedin: "https://www.linkedin.com/in/ira-dharia/",
-    image: "/people/idharia@uci.edu-2.jpg"
-  }
 ];
 
 export const CLCHC_DATA: Profile[] = [
@@ -146,6 +140,12 @@ export const CLCHC_DATA: Profile[] = [
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/jennifer-yan-8a2031299/",
     image: "/people/jennifer-yan.png",
+  },
+  {
+    name: "Ira Dharia",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/ira-dharia/",
+    image: "/people/idharia@uci.edu-2.jpg"
   },
   {
     name: "Meredith Lo",
