@@ -130,10 +130,22 @@ export const CLCHC_DATA: Profile[] = [
     image: "/people/allison-huang.jpg",
   },
   {
+    name: "Jacob Horne",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/jacobhornejth/",
+    image: "/people/jacob-horne.jpg"
+  },
+  {
     name: "Jennifer Yan",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/jennifer-yan-8a2031299/",
     image: "/people/jennifer-yan.png",
+  },
+  {
+    name: "Ira Dharia",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/ira-dharia/",
+    image: "/people/idharia@uci.edu-2.jpg"
   },
   {
     name: "Meredith Lo",
@@ -199,6 +211,12 @@ export const GCF_DATA: Profile[] = [
     image: "/people/derrick-thrower.jpeg",
   },
   {
+    name: "Harrison Tran",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/harrison-tran-547213294/",
+    image: "/people/harrison-tran.jpeg",
+  },
+  {
     name: "Daiki Narimoto",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/daiki-narimoto/",
@@ -209,6 +227,12 @@ export const GCF_DATA: Profile[] = [
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/sophie-choi-b78991319/",
     image: "/people/sophie-choi.jpeg",
+  },
+  {
+    name: "Gina Do",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/gina-nhu-do/",
+    image: "/people/gina-do.jpg",
   },
 ];
 
