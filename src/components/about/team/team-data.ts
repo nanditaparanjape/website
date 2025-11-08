@@ -240,6 +240,12 @@ export const GCF_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/gina-nhu-do/",
     image: "/people/gina-do.jpg",
   },
+  {
+    name: "Showmen Talukder",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/showmen-talukder/",
+    image: "/people/showmen-talukder.jpg",
+  }
 ];
 
 export const ELDR_DATA: Profile[] = [
