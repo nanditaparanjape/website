@@ -211,6 +211,12 @@ export const GCF_DATA: Profile[] = [
     image: "/people/isaac-nguyen.jpeg",
   },
   {
+    name: "Shayan Halder",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/shalder27/",
+    image: "/people/shayan-halder.jpg",
+  },
+  {
     name: "Derrick Thrower",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/derrick-thrower-482855278/",
@@ -240,6 +246,18 @@ export const GCF_DATA: Profile[] = [
     linkedin: "https://www.linkedin.com/in/gina-nhu-do/",
     image: "/people/gina-do.jpg",
   },
+  {
+    name: "Pradosh Thirunavukkarasu",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/pradosht/",
+    image: "/people/PradoshThirunavukkarasu.jpg",
+  },
+  {
+    name: "Showmen Talukder",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/showmen-talukder/",
+    image: "/people/showmen-talukder.jpg",
+  }
 ];
 
 export const ELDR_DATA: Profile[] = [
@@ -272,6 +290,19 @@ export const ELDR_DATA: Profile[] = [
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/nandita-paranjape/",
     image: "/people/nanditaparanjape.jpg",
+  },
+  {
+    name: "Darren Zhao",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/darrenjzhao/",
+    image: "/people/darren-zhao.jpg",
+  },
+  {
+    name: "Justin Tran",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/justin-tran-43b050387/",
+    image: "/people/justin-tran.jpeg",
+  },
   {
     name: "Jay Chan",
     role: "Developer",
