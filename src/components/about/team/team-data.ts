@@ -247,6 +247,12 @@ export const GCF_DATA: Profile[] = [
     image: "/people/gina-do.jpg",
   },
   {
+    name: "Pradosh Thirunavukkarasu",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/pradosht/",
+    image: "/people/PradoshThirunavukkarasu.jpg",
+  },
+  {
     name: "Showmen Talukder",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/showmen-talukder/",
