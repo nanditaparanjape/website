@@ -286,6 +286,12 @@ export const ELDR_DATA: Profile[] = [
     image: "/people/yousef-khan.jpg",
   },
   {
+    name: "Darren Zhao",
+    role: "Developer",
+    linkedin: "https://www.linkedin.com/in/darrenjzhao/",
+    image: "/people/darren-zhao.jpg",
+  },
+  {
     name: "Justin Tran",
     role: "Developer",
     linkedin: "https://www.linkedin.com/in/justin-tran-43b050387/",
